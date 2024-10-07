@@ -1,0 +1,8 @@
+#listaDeTarefas {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Usar grid responsivo */
+  gap: 15px; /* Espaçamento entre os cards */
+  justify-content: center;
+}

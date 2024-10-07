@@ -1,0 +1,12 @@
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 18px;
+  }
+  
+  .spinner p {
+    color: #666;
+  }
+  

@@ -1,0 +1,15 @@
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra menor */
+  padding: 10px; /* Diminuir o padding */
+  margin: 10px;
+  width: 200px; /* Definir um tamanho fixo para os cards */
+  height: 150px; /* Definir uma altura fixa */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif; /* Alterando para uma fonte mais moderna */
+  background-color: #f7f7f7; /* Cor de fundo mais suave */
+  color: #333;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+
